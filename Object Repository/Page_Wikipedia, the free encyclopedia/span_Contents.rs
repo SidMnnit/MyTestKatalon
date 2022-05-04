@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contents</name>
+   <tag></tag>
+   <elementGuidId>991a0d79-accc-4c43-a1e6-721dc5243ebb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Guides to browsing Wikipedia&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='n-contents']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a66ad010-5427-450d-aa76-a34d805fb6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contents</value>
+      <webElementGuid>66872c09-5a91-480a-bdaa-670a234b759c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;n-contents&quot;)/a[1]/span[1]</value>
+      <webElementGuid>c1c78aa3-ad95-4758-a5f4-052f59f32e35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='n-contents']/a/span</value>
+      <webElementGuid>3f9f350f-2b1a-45cd-8221-df9265eef80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Main page'])[1]/following::span[1]</value>
+      <webElementGuid>0be333a7-7b96-4ec3-b8c7-33ec997b7984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigation'])[1]/following::span[2]</value>
+      <webElementGuid>f9f3fb39-4c15-496c-87f4-f11887964c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current events'])[1]/preceding::span[1]</value>
+      <webElementGuid>e1feaf40-a2d9-43f5-8a6e-7b1a72bdc4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Random article'])[1]/preceding::span[2]</value>
+      <webElementGuid>b4c1b9f7-8e76-4a13-bd22-88877b424a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contents']/parent::*</value>
+      <webElementGuid>d3b75679-03ee-4cde-9c2a-6be83efa7f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/div/ul/li[2]/a/span</value>
+      <webElementGuid>8e0826dc-6c02-4ac1-b6ab-d7745034116c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Contents' or . = 'Contents')]</value>
+      <webElementGuid>f668b67b-147a-4bc0-8c8a-e1e505822504</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

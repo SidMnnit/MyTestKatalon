@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reference works</name>
+   <tag></tag>
+   <elementGuidId>27601ce0-1593-4d7c-96f7-6ac113bb2bbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mw-content-text']/div/div[4]/div[2]/ul/li[10]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b6f0bcde-cbc8-454d-9a2a-d319b6985779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Wikipedia:Contents/Reference</value>
+      <webElementGuid>1a18ca94-22b8-4d2b-9d5f-7fb057474430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Wikipedia:Contents/Reference</value>
+      <webElementGuid>5d1e4ce5-1b94-4361-9a1d-797144a1a6b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reference works</value>
+      <webElementGuid>69621933-36ff-484e-aac5-e2a886744505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mw-content-text&quot;)/div[@class=&quot;mw-parser-output&quot;]/div[@class=&quot;contentsPage contentsPage--topic&quot;]/div[@class=&quot;contentsPage__section&quot;]/ul[1]/li[10]/a[1]</value>
+      <webElementGuid>c63bac78-19c0-4eab-a5ef-5f5c0776d36a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mw-content-text']/div/div[4]/div[2]/ul/li[10]/a</value>
+      <webElementGuid>6e7fb9c3-4406-4081-91cf-8214b689a369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Reference works')]</value>
+      <webElementGuid>327bb688-e0b7-458c-bade-8e5b9f00511a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Philosophy'])[2]/following::a[1]</value>
+      <webElementGuid>6b353c1e-2ba2-4c53-8f2b-ca3cd4790d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='People'])[2]/following::a[2]</value>
+      <webElementGuid>88e75f65-20ea-4898-9dc2-a5be6596e7f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Religions'])[1]/preceding::a[1]</value>
+      <webElementGuid>7d49117c-b4f3-44d0-bf1a-917f3a4f1a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Society'])[2]/preceding::a[2]</value>
+      <webElementGuid>5edd921c-daf3-4bc1-9198-6d38ec709284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reference works']/parent::*</value>
+      <webElementGuid>18b8f5b1-d6e9-442b-9a17-ef1652f2786b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/wiki/Wikipedia:Contents/Reference')])[2]</value>
+      <webElementGuid>5e5bdb0c-88ae-4496-994e-5062218c615c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[10]/a</value>
+      <webElementGuid>422bfbba-6015-4d79-94d7-c2057e5240f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Wikipedia:Contents/Reference' and @title = 'Wikipedia:Contents/Reference' and (text() = 'Reference works' or . = 'Reference works')]</value>
+      <webElementGuid>87ca93de-6b8d-43c8-aa8c-7722b182d840</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
